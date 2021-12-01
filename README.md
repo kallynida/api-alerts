@@ -1,6 +1,5 @@
 ## Dependencies
-`python version = 3.9.9`
-python package `requests==2.26.0`
+`python version = 3.9.9` and python package `requests==2.26.0`
 
 ## Further improvements
 * Improve error handling & rounding
